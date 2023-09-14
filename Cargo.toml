@@ -1,5 +1,5 @@
 [package]
-name = "ledger-transport-hid"
+name = "ledger-transport-hidapi"
 description = "Ledger Hardware Wallet - HID Transport"
 version = "0.10.0"
 license = "Apache-2.0"
